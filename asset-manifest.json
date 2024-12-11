@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/engagement/static/css/main.653d60eb.css",
+    "main.js": "/engagement/static/js/main.e66c1a91.js",
+    "static/media/ap.png": "/engagement/static/media/ap.4367eaa137a3e8c04a46.png",
+    "static/media/slider-1-1600x900.jpg": "/engagement/static/media/slider-1-1600x900.6d49bf4d73364cfeb9ae.jpg",
+    "static/media/bride.jpeg": "/engagement/static/media/bride.c4fcd2be1929e75d11c8.jpeg",
+    "static/media/counter-1-1600x600.jpg": "/engagement/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
+    "static/media/groom.jpeg": "/engagement/static/media/groom.f644cb32578c8263e716.jpeg",
+    "static/media/w22.png": "/engagement/static/media/w22.a93129e79ba00100cc9b.png",
+    "static/media/brideback.jpg": "/engagement/static/media/brideback.e80a60bee54895ac18ce.jpg",
+    "static/media/webzed-font-1.svg": "/engagement/static/media/webzed-font-1.487b251aaacc77e3e18c.svg",
+    "static/media/Background_Circle.png": "/engagement/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
+    "static/media/webzed-font-1.eot": "/engagement/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
+    "static/media/webzed-font-1.ttf": "/engagement/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
+    "static/media/webzed-font-1.woff": "/engagement/static/media/webzed-font-1.d1595007862c0851fa30.woff",
+    "index.html": "/engagement/index.html",
+    "main.653d60eb.css.map": "/engagement/static/css/main.653d60eb.css.map",
+    "main.e66c1a91.js.map": "/engagement/static/js/main.e66c1a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.653d60eb.css",
+    "static/js/main.e66c1a91.js"
+  ]
+}
