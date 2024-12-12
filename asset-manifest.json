@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/engagement/static/css/main.653d60eb.css",
-    "main.js": "/engagement/static/js/main.e66c1a91.js",
+    "main.css": "/engagement/static/css/main.62d6aa82.css",
+    "main.js": "/engagement/static/js/main.8a7b6966.js",
     "static/media/ap.png": "/engagement/static/media/ap.4367eaa137a3e8c04a46.png",
     "static/media/slider-1-1600x900.jpg": "/engagement/static/media/slider-1-1600x900.6d49bf4d73364cfeb9ae.jpg",
     "static/media/bride.jpeg": "/engagement/static/media/bride.c4fcd2be1929e75d11c8.jpeg",
@@ -15,11 +15,11 @@
     "static/media/webzed-font-1.ttf": "/engagement/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
     "static/media/webzed-font-1.woff": "/engagement/static/media/webzed-font-1.d1595007862c0851fa30.woff",
     "index.html": "/engagement/index.html",
-    "main.653d60eb.css.map": "/engagement/static/css/main.653d60eb.css.map",
-    "main.e66c1a91.js.map": "/engagement/static/js/main.e66c1a91.js.map"
+    "main.62d6aa82.css.map": "/engagement/static/css/main.62d6aa82.css.map",
+    "main.8a7b6966.js.map": "/engagement/static/js/main.8a7b6966.js.map"
   },
   "entrypoints": [
-    "static/css/main.653d60eb.css",
-    "static/js/main.e66c1a91.js"
+    "static/css/main.62d6aa82.css",
+    "static/js/main.8a7b6966.js"
   ]
 }
