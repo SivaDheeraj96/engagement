@@ -16,8 +16,8 @@ function App() {
   return (
     <div className="App">
       <Invitation />
-      <Video />
-      <Header />
+      {/* <Video /> */}
+      {/* <Header /> */}
      <WeddingDate />
      <CountDown />
      

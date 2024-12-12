@@ -72,7 +72,16 @@ b.light-color{ color: #444; }
 .border-btn:hover:before{ transform: translateX(0%); }
 
 
-.section{ padding: 100px 0 70px; }
+.section{ 
+	padding: 100px 0 70px; 
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	scroll-snap-stop: always;
+	scroll-snap-align: start;
+
+}
 
 .section .heading{ padding-bottom: 40px; }
 
@@ -208,8 +217,16 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu{ display: block;
 4. SLIDER
 --------------------------------- */
 
-.main-slider{ height: 100vh; position: relative; z-index: 1; 
-	background-image: url(./images/slider-1-1600x900.jpg); background-size: cover; color: #fff; } 
+.main-slider{ 
+	height: 100vh; 
+	position: relative; 
+	z-index: 1; 
+	background-image: url(./images/slider-1-1600x900.jpg); 
+	background-size: cover; 
+	color: #fff; 
+	width: 100vw;
+	overflow: scroll;
+} 
 
 .main-slider:after{ content:''; position: absolute; top: 0; bottom: 0; left: 0; right: 0; 
 	z-index: -1; background: rgba(0,0,0,.3); }
@@ -732,3 +749,8 @@ footer .copyright{ padding: 20px 0 30px; }
 	background-color: #0056b3;
   }
   
+  .App{
+	max-height: 100vh;
+	scroll-snap-type: y mandatory;
+	overflow-y: scroll;
+  }
